@@ -85,21 +85,11 @@ Isolation Forest was lightweight and effective
 
 Autoencoder gave deeper insights but needed more tuning
 
-Traditional AQI classification/regression approaches didn’t reveal actionable insights — anomaly detection added real value
+Traditional AQI classification/regression approaches revealed actionable insights and anomaly detection added real value
 
-📁 Folder Structure
-bash
-Copy
-Edit
-AQI-Anomaly-Detection/
-│
-├── AQI.ipynb                 # Jupyter notebook with full analysis & ML
-├── modified_air_quality_data.csv  # Cleaned dataset
-├── README.md
-🔓 License
 This project and dataset are shared under the CC0: Public Domain license.
 
 🙋‍♂️ Author
 Sathvik Isikella
-Aspiring ML practitioner exploring data-driven insights into environmental issues.
+Aspiring ML/Data practitioner exploring data-driven insights into environmental issues.
 
